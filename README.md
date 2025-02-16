@@ -33,8 +33,11 @@ This project builds upon two published methods:
 This project incorporates code from the following sources:
 
 - [vecfitcpu_vortex](https://github.com/imphys/vecfitcpu_vortex)
-    Original Vortex implementation - Licensed under the [Apache-2.0 License](./Code/LICENSE).
+  
+  Original Vortex implementation - Licensed under the [Apache-2.0 License](./Code/LICENSE).
+  
 - [simflux](https://github.com/qnano/simflux)
-    Original SIMFLUX implementation - Licensed under the [MIT License](https://github.com/qnano/simflux?tab=MIT-1-ov-file#readme).
+  
+  Original SIMFLUX implementation - Licensed under the [MIT License](https://github.com/qnano/simflux?tab=MIT-1-ov-file#readme).
 
 Our V-SIMFLUX modifications are licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
